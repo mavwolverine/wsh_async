@@ -1,8 +1,0 @@
-Inspired from https://github.com/pinntech/wsh
-
-
-## Run
-```bash
-pip install .
-wsh_async ws://127.0.0.1:8000/ws
-```
